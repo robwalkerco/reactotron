@@ -23931,7 +23931,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-transition-group@npm:^4.3.0":
+"react-transition-group@npm:^4.3.0, react-transition-group@npm:^4.4.5":
   version: 4.4.5
   resolution: "react-transition-group@npm:4.4.5"
   dependencies:
@@ -24108,6 +24108,7 @@ __metadata:
     react-router-dom: "npm:^6.22.0"
     react-test-renderer: "npm:18.2.0"
     react-tooltip: "npm:4.5.1"
+    react-transition-group: "npm:^4.4.5"
     reactotron-core-contract: "workspace:*"
     reactotron-core-server: "workspace:*"
     reactotron-core-ui: "workspace:*"
